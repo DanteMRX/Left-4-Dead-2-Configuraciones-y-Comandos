@@ -158,6 +158,21 @@ factores en el juego
 
 `bind <letra asignada> say "!ready"` _envia un mensaje para todo el chat global_ 
 
+### mutear el audio de jugadores
+
+Lo primero que se debe de hacer es ir a la consola y colocar el comando 
+
+```
+voice_show_mute
+
+```
+
+despues nos aparecerá una lista en orden de los jugadores de la partida. colocaremos el siguiente comando con el numero del jugador al que queremos silenciar 
+
+```
+voice_mute <numero del jugador> 
+```
+
 
 
 
