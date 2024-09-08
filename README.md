@@ -37,11 +37,13 @@ Entrar al juego y bindear el siguiente comando:
 
 `cl_crosshair_thickness 2` Controla el grosor de las líneas del punto de mira. Un valor de 2 significa que las líneas serán más gruesas.
 
-`cl_crosshair_red 255` Define el valor del componente rojo en el color del punto de mira. El valor 255 significa el máximo nivel de rojo.
+###cambiar el color del crosshair y otras variables ⚪️
 
-`cl_crosshair_blue 255` Define el valor del componente azul en el color del punto de mira. El valor 255 significa el máximo nivel de azul.
+`cl_crosshair_red 255` Define el valor del componente rojo en el color del punto de mira. El valor 255 significa el máximo nivel de rojo.🔴
 
-`cl_crosshair_green 255` Define el valor del componente verde en el color del punto de mira. El valor 255 significa el máximo nivel de verde.
+`cl_crosshair_blue 255` Define el valor del componente azul en el color del punto de mira. El valor 255 significa el máximo nivel de azul.🔵
+
+`cl_crosshair_green 255` Define el valor del componente verde en el color del punto de mira. El valor 255 significa el máximo nivel de verde.🟢
 
 `cl_colorblind 0` Activa o desactiva el modo para daltónicos. Un valor de 0 significa que está desactivado, lo que significa que el juego no aplicará filtros de color para ayudar a los jugadores con deficiencias de visión de color.
 
