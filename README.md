@@ -154,9 +154,9 @@ factores en el juego
 
 `setinfo name <nombre del jugador>` _cambiar el nombre dentro de la partida_
 
-`bind <letra asignada> say_team "TANK GO BACK!" _envia un mensaje rapido solo para tu equipo_
+`bind <letra asignada> say_team` "TANK GO BACK!" _envia un mensaje rapido solo para tu equipo_
 
-`bind <letra asignada> say "!ready" _envia un mensaje pada todo el chat global_ 
+`bind <letra asignada> say` "!ready" _envia un mensaje pada todo el chat global_ 
 
 
 
