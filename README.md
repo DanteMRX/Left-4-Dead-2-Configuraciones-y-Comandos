@@ -152,6 +152,8 @@ factores en el juego
 
 `kick <nombre del jugador>` _se usa para expulsar a un jugador de tu servidor local_
 
+`setinfo name <nombre>` _cambiar el nombre dentro de la partida_
+
 
 
 
