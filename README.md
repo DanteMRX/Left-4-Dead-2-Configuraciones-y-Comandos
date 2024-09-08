@@ -29,7 +29,7 @@ Entrar al juego y bindear el siguiente comando:
 
 `Cl_Viewmodelfovsurvivor 90`: Aumenta la distancia de tu arma en pantalla.
 
-### Todos los comandos (por defecto):
+## Todos los comandos (por defecto):
 
 `cl_crosshair_dynamic 1` Activa un punto de mira dinámico. Esto hace que el punto de mira se expanda cuando te mueves y se reduzca cuando te quedas quieto, lo que te ayuda a medir mejor la precisión en movimiento.
 
