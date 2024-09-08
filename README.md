@@ -25,7 +25,7 @@ Entrar al juego y bindear el siguiente comando:
 
 ## Comandos para Crosshair:
 
-Nombre_de_la_cvar	" valor predeterminado "	Rango de valores disponibles
+|Nombre_de_la_cvar	||valor predeterminado |	|Rango de valores disponibles|
 crosshair	"1"	0 - 1
 cl_crosshair_alpha	"255"	0 - 255
 cl_crosshair_dynamic	"1"	0 - 1
