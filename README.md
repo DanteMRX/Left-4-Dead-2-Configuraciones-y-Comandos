@@ -7,7 +7,9 @@
 
 ## Configuración Recomendada para fps y Ping
 
+```
 -high -refresh 60 -nojoy -novid -console -lv
+```
 
 ## Descripción de los comandos:
 
