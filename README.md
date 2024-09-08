@@ -4,6 +4,9 @@ Esta guía busca ayudar y optimizar el juego para que tengas una mejor experienc
 
 ## Configuración mejorada para (parametros del juegos)
 
+Estos comandos ayudaran a mejorar y optimizar 
+factores en el juego
+
 ```
 -high -nosync -nomsaa -noaafonts -lv -nojoy -novid -console -freq (Hz of your monitor) -useallavailablecores -nod3d9ex -dxlevel 81 -threads (Cores of your processor)
 ```
