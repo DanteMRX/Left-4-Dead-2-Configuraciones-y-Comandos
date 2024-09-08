@@ -40,8 +40,8 @@ cl_crosshair_blue	"220"	0 - 255 RGB
 | cl_crosshair_alpha   | "255"  |0 - 255|
 | cl_crosshair_dynamic | "1"    |0 - 1  |
 | cl_crosshair_alpha   | "255"  |0 - 255|
-|                      |"1"     |0 - 1  |
-| cl_crosshair_alpha   | "255"  |0 - 255|
+|cl_crosshair_thickness| "2"    |0 - 5  |
+| cl_crosshair_red.    | "138"  |0 - 255|
 
 
 
