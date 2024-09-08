@@ -23,14 +23,8 @@ Entrar al juego y bindear el siguiente comando:
 > _Siempre escribe este comando `sv_consistency 0`en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*_
 
 
-## Comandos para Crosshair:
+## Comandos para el crosshair: 
 
-
-	
-cl_crosshair_alpha	"255"	0 - 255
-cl_crosshair_dynamic	"1"	0 - 1
-cl_crosshair_thickness	"2"	0 - 5
-cl_crosshair_red	"138"	0 - 255 RGB
 cl_crosshair_green	"182"	0 - 255 RGB
 cl_crosshair_blue	"220"	0 - 255 RGB
 
@@ -41,8 +35,9 @@ cl_crosshair_blue	"220"	0 - 255 RGB
 | cl_crosshair_dynamic | "1"    |0 - 1  |
 | cl_crosshair_alpha   | "255"  |0 - 255|
 |cl_crosshair_thickness| "2"    |0 - 5  |
-| cl_crosshair_red.    | "138"  |0 - 255|
-
+| cl_crosshair_red    | "138"  |0 - 255 RGB|
+| cl_crosshair_green | "182"  |0 - 255 RGB|
+|cl_crosshair_blue   | "220"  |0 - 255 RGB|
 
 
 `Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
