@@ -146,6 +146,10 @@ factores en el juego
 `cl_interp_ratio 0`
 `cl_interp 0.0300` (va de 0.1000 - .0001)
 
+## Comandos Útiles para el juego
+
+
+
 
 
 
