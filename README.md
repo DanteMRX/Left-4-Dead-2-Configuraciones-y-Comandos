@@ -70,7 +70,7 @@
 `cl_interp_ratio "1"`
 `cl_interp "0.000"` 
 
-## Los Mejores (Para usar esta configuracion el juego tiene que ir a más de 150 FPS) *si no veras gran cambio*
+## Los Mejores (Para usar esta configuracion el juego tiene que ir a más de 150 FPS) *sino no veras gran cambio*
 `rate "128000"`
 `cl_cmdrate "128"`
 `cl_updaterate "128"`
