@@ -25,8 +25,8 @@ Entrar al juego y bindear el siguiente comando:
 
 ## Comandos para Crosshair:
 
-|Nombre_de_la_cvar	||valor predeterminado |	|Rango de valores disponibles|
-crosshair	"1"	0 - 1
+
+	
 cl_crosshair_alpha	"255"	0 - 255
 cl_crosshair_dynamic	"1"	0 - 1
 cl_crosshair_thickness	"2"	0 - 5
@@ -35,8 +35,8 @@ cl_crosshair_green	"182"	0 - 255 RGB
 cl_crosshair_blue	"220"	0 - 255 RGB
 
 |Nombre_de_la_cvar |valor predeterminado |Rango de valores disponibles|
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| :---         |     :---:      |          ---: 
+| crosshair	  | "1"    |  0 - 1  |
 | git diff     | git diff       | git diff      |
 
 
