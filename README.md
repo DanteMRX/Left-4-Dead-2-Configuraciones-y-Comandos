@@ -6,6 +6,8 @@
 
 -high -nosync -nomsaa -noaafonts -lv -nojoy -novid -console -freq (Hz of your monitor) -useallavailablecores -nod3d9ex -dxlevel 81 -threads (Cores of your processor)
 
+![Descripción de la imagen](https://images.alphacoders.com/748/74843.jpg)
+
 ## Configuración Recomendada para fps y Ping
 
 -high -refresh 60 -nojoy -novid -console -lv
