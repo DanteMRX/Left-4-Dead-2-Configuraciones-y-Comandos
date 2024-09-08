@@ -2,11 +2,11 @@
 
 Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia 
 
-(1) Bindear la consola con
-con
-`-console`  en los parametros del juego
-
 ## Comandos Basicos para el juego:
+
+lo primero que se debe de hacer es bindear la consola colocando en "parametros del juego"
+
+```-console```
 
 `Bind f10 "toggleconsole"`: Abre la consola desde la tecla asignada (F10).
 
