@@ -17,7 +17,10 @@ Entrar al juego y bindear el siguiente comando:
 
 `Bind f11 "disconnect"`: Desconéctate rápidamente de un servidor con (F11).
 
-`sv_consistency 0` Siempre escribe este comando en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*
+`sv_consistency 0` 
+
+> [!IMPORTANT]\
+> Siempre escribe este comando en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*
 
 
 ## Comandos para Crosshair:
@@ -133,10 +136,6 @@ factores en el juego
 `cl_interp_ratio 0`
 `cl_interp 0.0300` (va de 0.1000 - .0001)
 
-
-
-> [!IMPORTANT]\
-> Este proyecto **no está afiliado de ninguna manera** con `Steam`, `Inc. Steam` **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 
 
 
