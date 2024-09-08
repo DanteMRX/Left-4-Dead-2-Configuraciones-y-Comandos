@@ -146,7 +146,7 @@ factores en el juego
 `cl_interp_ratio 0`
 `cl_interp 0.0300` (va de 0.1000 - .0001)
 
-## Comandos Útiles para el juego📓
+## Comandos Útiles para la partida📓
 
 `status` _se usa en la consola para mostrar información sobre los jugadores conectados al servidor, como sus IDs, nombres y direcciones IP._
 
