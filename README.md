@@ -70,6 +70,12 @@
 
 ## Configuración de Lerps (Latencia)
 
+## Valores por defecto:
+`cl_cmdrate 100`
+`cl_updaterate 60`
+`cl_interp_ratio 2`
+`cl_inter 0.1000000`
+
 ## Los Peores:
 
 `rate "30000"`
@@ -98,6 +104,13 @@
 `cl_updaterate "128"`
 `cl_interp_ratio "1"`
 `cl_interp "0.000"`
+
+## tener el mejor ping disponible
+`cl_cmdrate 10`
+`cl_updaterate 10`
+`cl_interp_ratio 0`
+`cl_interp 0.0300 (va de 0.1000 - .0001)`
+
 
 
 
