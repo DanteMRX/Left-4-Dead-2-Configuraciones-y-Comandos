@@ -152,7 +152,11 @@ factores en el juego
 
 `kick <nombre del jugador>` _se usa para expulsar a un jugador de tu servidor local_
 
-`setinfo name <nombre>` _cambiar el nombre dentro de la partida_
+`setinfo name <nombre del jugador>` _cambiar el nombre dentro de la partida_
+
+`bind <letra asignada> say_team "TANK GO BACK!" _envia un mensaje rapido solo para tu equipo_
+
+`bind <letra asignada> say "!ready" _envia un mensaje pada todo el chat global_ 
 
 
 
