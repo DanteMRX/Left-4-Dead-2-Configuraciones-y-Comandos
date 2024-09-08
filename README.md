@@ -23,7 +23,7 @@ Entrar al juego y bindear el siguiente comando:
 > _Siempre escribe este comando `sv_consistency 0`en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*_
 
 
-## Comandos para el crosshair: 
+## Comandos para el crosshair📌: 
 
 |Nombre_de_la_cvar |valor predeterminado |Rango de valores disponibles|
 | :---         |     :---:      |          ---: 
@@ -51,7 +51,7 @@ Entrar al juego y bindear el siguiente comando:
 
 `cl_crosshair_green 255` Define el valor del componente verde en el color del punto de mira. El valor 255 significa el máximo nivel de verde.
 
-### comando adicional 
+### comando adicional 🖇
 
 `cl_colorblind 0` Activa o desactiva el modo para daltónicos. Un valor de 0 significa que está desactivado, lo que significa que el juego no aplicará filtros de color para ayudar a los jugadores con deficiencias de visión de color.
 
@@ -68,7 +68,7 @@ factores en el juego
 -high -refresh 60 -nojoy -novid -console -lv
 ```
 
-## Descripción de los comandos:
+## Descripción de los comandos:🗒
 
 `-high`: Asigna una prioridad alta al proceso del juego.
 
@@ -146,7 +146,7 @@ factores en el juego
 `cl_interp_ratio 0`
 `cl_interp 0.0300` (va de 0.1000 - .0001)
 
-## Comandos Útiles para el juego
+## Comandos Útiles para el juego📓
 
 `status` _se usa en la consola para mostrar información sobre los jugadores conectados al servidor, como sus IDs, nombres y direcciones IP._
 
