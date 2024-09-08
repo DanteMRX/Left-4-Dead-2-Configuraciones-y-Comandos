@@ -34,7 +34,15 @@
 
 `-threads`: Especifica el número de hilos de procesamiento que el juego utilizará.
 
-## Comandos para crosshair:
+## Comandos Basicos para el juego:
+
+`Bind f11 toggleconsole`: Abre la consola desde la tecla asignada (F11).
+
+`Net_Graph 1`: Muestra estadísticas como FPS y latencia en pantalla.
+
+`Bind f10 disconnect`: Desconéctate rápidamente de un servidor con F10.
+
+## Comandos para Crosshair:
 
 `Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
 
@@ -56,17 +64,6 @@ Todos los comandos (por defecto):
 
 `cl_colorblind 0` Activa o desactiva el modo para daltónicos. Un valor de 0 significa que está desactivado, lo que significa que el juego no aplicará filtros de color para ayudar a los jugadores con deficiencias de visión de color.
 
-
-
-
-## Comandos Adicionales:
-
-`Bind f11 toggleconsole`: Abre la consola desde la tecla asignada (F11).
-
-
-`Net_Graph 1`: Muestra estadísticas como FPS y latencia en pantalla.
-
-`Bind f10 disconnect`: Desconéctate rápidamente de un servidor con F10.
 
 ## Configuración de Lerps (Latencia)
 
