@@ -1,10 +1,10 @@
 # Guia de Ayuda para Left 4 Dead 2 
 
-_Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia_
+Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia
 
 ## Comandos Basicos para el juego:
 
-_Lo primero que se debe de hacer es activar la consola colocando en "parametros del juego"_
+Lo primero que se debe de hacer es activar la consola colocando en "parametros del juego"
 
 ```
 -console
@@ -20,7 +20,7 @@ Entrar al juego y bindear el siguiente comando:
 `sv_consistency 0` 
 
 > [!IMPORTANT]\
-> Siempre escribe este comando `sv_consistency 0`en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*
+> _Siempre escribe este comando `sv_consistency 0`en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*_
 
 
 ## Comandos para Crosshair:
