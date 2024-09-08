@@ -36,11 +36,11 @@
 
 ## Comandos Basicos para el juego:
 
-`Bind f10 toggleconsole`: Abre la consola desde la tecla asignada (F10).
+`Bind f10 "toggleconsole"`: Abre la consola desde la tecla asignada (F10).
 
 `Net_Graph 1`: Muestra estadísticas como FPS y latencia en pantalla.
 
-`Bind f11 disconnect`: Desconéctate rápidamente de un servidor con (F11).
+`Bind f11 "disconnect"`: Desconéctate rápidamente de un servidor con (F11).
 
 `sv_consistency 0` Siempre escribe en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*
 
