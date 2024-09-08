@@ -115,7 +115,7 @@
 `cl_cmdrate 10`
 `cl_updaterate 10`
 `cl_interp_ratio 0`
-`cl_interp 0.0300 (va de 0.1000 - .0001)`
+`cl_interp 0.0300` (va de 0.1000 - .0001)
 
 
 
