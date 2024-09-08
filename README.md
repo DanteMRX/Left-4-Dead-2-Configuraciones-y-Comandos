@@ -13,7 +13,7 @@
 
 `-high`: Asigna una prioridad alta al proceso del juego.
 
-`-nosync`: Desactiva la sincronización vertical, mejorando la velocidad de fotogramas.
+`-nosync`: \\ Desactiva la sincronización vertical, mejorando la velocidad de fotogramas.
 
 `-nomsaa`: Desactiva el Multi-Sample #Anti-Aliasing (MSAA).
 
