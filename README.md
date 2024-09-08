@@ -5,7 +5,7 @@ Esta guía busca ayudar y optimizar el juego para que tengas una mejor experienc
 ## Configuración mejorada para (parametros del juegos)
 
 ```
-# -high -nosync -nomsaa -noaafonts -lv -nojoy -novid -console -freq (Hz of your monitor) -useallavailablecores -nod3d9ex -dxlevel 81 -threads (Cores of your processor)
+-high -nosync -nomsaa -noaafonts -lv -nojoy -novid -console -freq (Hz of your monitor) -useallavailablecores -nod3d9ex -dxlevel 81 -threads (Cores of your processor)
 ```
 ## Configuración Recomendada para fps y Ping
 ```
