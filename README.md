@@ -4,10 +4,7 @@ Esta guía busca ayudar y optimizar el juego para que tengas una mejor experienc
 
 ## Comandos Basicos para el juego:
 
-```
-Bind f10 "toggleconsole"
-```
-: Abre la consola desde la tecla asignada (F10).
+`Bind f10 "toggleconsole"`: Abre la consola desde la tecla asignada (F10).
 
 `Net_Graph 1`: Muestra estadísticas como FPS y latencia en pantalla.
 
