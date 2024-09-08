@@ -109,7 +109,7 @@
 `cl_cmdrate 128`
 `cl_updaterate 128`
 `cl_interp_ratio 0`
-`cl_inter 0.0167`
+`cl_interp 0.0167`
 
 ## tener el mejor ping disponible
 `cl_cmdrate 10`
