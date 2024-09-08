@@ -150,6 +150,8 @@ factores en el juego
 
 `status` _se usa en la consola para mostrar información sobre los jugadores conectados al servidor, como sus IDs, nombres y direcciones IP._
 
+`kick <nombre del jugador>` _se usa para expulsar a un jugador de tu servidor local_
+
 
 
 
