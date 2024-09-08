@@ -37,7 +37,7 @@ cl_crosshair_blue	"220"	0 - 255 RGB
 |Nombre_de_la_cvar |valor predeterminado |Rango de valores disponibles|
 | :---         |     :---:      |          ---: 
 | crosshair	  | "1"    |  0 - 1  |
-| git diff     | git diff       | git diff      |
+| cl_crosshair_alpha    | "255"     | 0 - 255   |
 
 
 `Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
