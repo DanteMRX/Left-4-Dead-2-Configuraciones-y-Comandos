@@ -1,4 +1,4 @@
-#bienvenido la guia de ayuda para mejorar en el left 4 dead 2
+##bienvenido la guia de ayuda para mejorar en el left 4 dead 2
 
 
 ## Optimización y Opciones de Lanzamiento del Juego (parametros del juegos)
