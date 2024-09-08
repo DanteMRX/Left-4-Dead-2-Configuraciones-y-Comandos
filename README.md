@@ -1,4 +1,4 @@
-## Opciones de Lanzamiento del Juego (esto va en los parametros del juegos)
+## Opciones de Lanzamiento del Juego (parametros del juegos)
 
 -high -nosync -nomsaa -noaafonts -lv -nojoy -novid -console -freq (Hz of your monitor) -useallavailablecores -nod3d9ex -dxlevel 81 -threads (Cores of your processor)
 
