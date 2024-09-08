@@ -156,7 +156,7 @@ factores en el juego
 
 `bind <letra asignada> say_team "TANK GO BACK!"` _envia un mensaje rapido solo para tu equipo_
 
-`bind <letra asignada> say "!ready"` _envia un mensaje pada todo el chat global_ 
+`bind <letra asignada> say "!ready"` _envia un mensaje para todo el chat global_ 
 
 
 
