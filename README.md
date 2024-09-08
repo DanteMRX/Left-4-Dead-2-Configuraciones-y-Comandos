@@ -4,7 +4,7 @@ _Esta guía busca ayudar y optimizar el juego para que tengas una mejor experien
 
 ## Comandos Basicos para el juego:
 
-Lo primero que se debe de hacer es activar la consola colocando en "parametros del juego"
+_Lo primero que se debe de hacer es activar la consola colocando en "parametros del juego"_
 
 ```
 -console
