@@ -148,6 +148,10 @@ factores en el juego
 
 ## Comandos Útiles para el juego
 
+`status` se usa en la consola para mostrar información sobre los jugadores conectados al servidor, como sus IDs, nombres y direcciones IP.
+
+
+
 
 
 
