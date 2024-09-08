@@ -42,6 +42,9 @@
 
 `Bind f11 disconnect`: Desconéctate rápidamente de un servidor con (F11).
 
+`sv_consistency 0` // Siempre escribe en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg*
+
+
 ## Comandos para Crosshair:
 
 `Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
