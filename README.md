@@ -51,6 +51,8 @@ Entrar al juego y bindear el siguiente comando:
 
 `cl_crosshair_green 255` Define el valor del componente verde en el color del punto de mira. El valor 255 significa el máximo nivel de verde.
 
+### comando adicional 
+
 `cl_colorblind 0` Activa o desactiva el modo para daltónicos. Un valor de 0 significa que está desactivado, lo que significa que el juego no aplicará filtros de color para ayudar a los jugadores con deficiencias de visión de color.
 
 ## Configuración mejorada para (parametros del juegos)
