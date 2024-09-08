@@ -78,32 +78,32 @@
 
 ## Los Peores:
 
-`rate "30000"`
 `cl_cmdrate "30"`
 `cl_updaterate "20"`
 `cl_interp_ratio "-1"`
 `cl_interp "0.0333"`
+`rate "30000"`
 
 ## Intermedios:
-`rate "60000"`
 `cl_cmdrate "60"`
 `cl_updaterate "60"`
 `cl_interp_ratio "1"`
 `cl_interp "0.067"`
+`rate "60000"`
 
 ## Los Mejores:
-`rate "100000"`
 `cl_cmdrate "100"`
 `cl_updaterate "100"`
 `cl_interp_ratio "1"`
 `cl_interp "0.000"` 
+`rate "100000"`
 
 ## Los Mejores (Para usar esta configuracion el juego tiene que ir a más de 150 FPS) *sino no veras gran cambio*
-`rate "128000"`
 `cl_cmdrate "128"`
 `cl_updaterate "128"`
 `cl_interp_ratio "1"`
 `cl_interp "0.000"`
+`rate "128000"`
 
 ## Mi configuracion
 `cl_cmdrate 128`
