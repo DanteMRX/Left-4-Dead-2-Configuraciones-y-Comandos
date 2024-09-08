@@ -1,6 +1,8 @@
 # Guia de Ayuda para Left 4 Dead 2 
 
-## Optimización y Opciones de Lanzamiento del Juego (parametros del juegos)
+Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia 
+
+## Configuración mejorada para (parametros del juegos)
 
 ```
 -high -nosync -nomsaa -noaafonts -lv -nojoy -novid -console -freq (Hz of your monitor) -useallavailablecores -nod3d9ex -dxlevel 81 -threads (Cores of your processor)
