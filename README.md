@@ -36,11 +36,11 @@
 
 ## Comandos Basicos para el juego:
 
-`Bind f11 toggleconsole`: Abre la consola desde la tecla asignada (F11).
+`Bind f10 toggleconsole`: Abre la consola desde la tecla asignada (F10).
 
 `Net_Graph 1`: Muestra estadísticas como FPS y latencia en pantalla.
 
-`Bind f10 disconnect`: Desconéctate rápidamente de un servidor con F10.
+`Bind f11 disconnect`: Desconéctate rápidamente de un servidor con (F11).
 
 ## Comandos para Crosshair:
 
