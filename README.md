@@ -20,7 +20,7 @@ Entrar al juego y bindear el siguiente comando:
 `sv_consistency 0` 
 
 > [!IMPORTANT]\
-> Siempre escribe este comando en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*
+> Siempre escribe este comando `sv_consistency 0`en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*
 
 
 ## Comandos para Crosshair:
