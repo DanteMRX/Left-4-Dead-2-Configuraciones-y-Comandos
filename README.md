@@ -2,7 +2,7 @@
 
 Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia 
 
-###(1) Bindear la consola con
+(1) Bindear la consola con
 con
 `-console`  en los parametros del juego
 
