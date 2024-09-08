@@ -1,4 +1,5 @@
 #Bienvenido a la Guía para mejorar la configuración en Left 4 Dead 2 
+
 ![bienvenidoa la Guia de ayuda para Left](https://images.alphacoders.com/748/74843.jpg)
 ## Optimización y Opciones de Lanzamiento del Juego (parametros del juegos)
 
