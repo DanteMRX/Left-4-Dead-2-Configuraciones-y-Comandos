@@ -8,31 +8,31 @@
 
 ## Descripción de los comandos:
 
-`high`: Asigna una prioridad alta al proceso del juego.
+`-high`: Asigna una prioridad alta al proceso del juego.
 
-`nosync`: Desactiva la sincronización vertical, mejorando la velocidad de fotogramas.
+`-nosync`: Desactiva la sincronización vertical, mejorando la velocidad de fotogramas.
 
-`nomsaa`: Desactiva el Multi-Sample Anti-Aliasing (MSAA).
+`-nomsaa`: Desactiva el Multi-Sample Anti-Aliasing (MSAA).
 
-`noaafonts`: Desactiva el antialiasing de fuentes.
+`-noaafonts`: Desactiva el antialiasing de fuentes.
 
-`lv`: Reduce la violencia gráfica.
+`-lv`: Reduce la violencia gráfica.
 
-`nojoy`: Desactiva el soporte para joysticks o gamepads.
+`-nojoy`: Desactiva el soporte para joysticks o gamepads.
 
-`novid`: Omite el vídeo de introducción del juego.
+`-novid`: Omite el vídeo de introducción del juego.
 
-`console`: Habilita la consola de comandos en el juego.
+`-console`: Habilita la consola de comandos en el juego.
 
-`freq`: Especifica la frecuencia de actualización del monitor en hercios (Hz).
+`-freq`: Especifica la frecuencia de actualización del monitor en hercios (Hz).
 
-`useallavailablecores`: Utiliza todos los núcleos disponibles del procesador.
+`-useallavailablecores`: Utiliza todos los núcleos disponibles del procesador.
 
-`nod3d9ex`: Desactiva características de DirectX 9Ex.
+`-nod3d9ex`: Desactiva características de DirectX 9Ex.
 
-`dxlevel 81`: Configura el uso de DirectX 8.1.
+`-dxlevel 81`: Configura el uso de DirectX 8.1.
 
-`threads`: Especifica el número de hilos de procesamiento que el juego utilizará.
+`-threads`: Especifica el número de hilos de procesamiento que el juego utilizará.
 
 ## Comandos Adicionales:
 
