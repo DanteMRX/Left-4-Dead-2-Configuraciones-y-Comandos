@@ -1,12 +1,9 @@
-#Bienvenido a la Guía para mejorar la configuración en Left 4 Dead 2 
+#bienvenido la guia de ayuda para mejorar en el left 4 dead 2
 
-![Descripción de la imagen](https://images.alphacoders.com/748/74843.jpg)
 
 ## Optimización y Opciones de Lanzamiento del Juego (parametros del juegos)
 
 -high -nosync -nomsaa -noaafonts -lv -nojoy -novid -console -freq (Hz of your monitor) -useallavailablecores -nod3d9ex -dxlevel 81 -threads (Cores of your processor)
-
-![Descripción de la imagen](https://images.alphacoders.com/748/74843.jpg)
 
 ## Configuración Recomendada para fps y Ping
 
@@ -18,7 +15,7 @@
 
 `-nosync`: Desactiva la sincronización vertical, mejorando la velocidad de fotogramas.
 
-`-nomsaa`: Desactiva el Multi-Sample Anti-Aliasing (MSAA).
+`-nomsaa`: Desactiva el Multi-Sample #Anti-Aliasing (MSAA).
 
 `-noaafonts`: Desactiva el antialiasing de fuentes.
 
