@@ -158,7 +158,7 @@ factores en el juego
 
 `bind <letra asignada> say "!ready"` _envia un mensaje para todo el chat global_ 
 
-### mutear el audio de jugadores
+### Silenciar el audio de jugadores
 
 Lo primero que se debe de hacer es ir a la consola y colocar el comando 
 
