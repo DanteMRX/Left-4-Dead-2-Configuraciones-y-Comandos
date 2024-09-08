@@ -34,6 +34,12 @@ cl_crosshair_red	"138"	0 - 255 RGB
 cl_crosshair_green	"182"	0 - 255 RGB
 cl_crosshair_blue	"220"	0 - 255 RGB
 
+|Nombre_de_la_cvar |valor predeterminado |Rango de valores disponibles|
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
 `Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
 
 `Cl_Viewmodelfovsurvivor 90`: Aumenta la distancia de tu arma en pantalla.
