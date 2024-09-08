@@ -50,9 +50,9 @@
 
 Todos los comandos (por defecto):
 
-`cl_crosshair_alpha 255` Ajusta la opacidad del punto de mira (crosshair). El valor 255 significa completado.
-
 `cl_crosshair_dynamic 1` Activa un punto de mira dinámico. Esto hace que el punto de mira se expanda cuando te mueves y se reduzca cuando te quedas quieto, lo que te ayuda a medir mejor la precisión en movimiento.
+
+`cl_crosshair_alpha 255` Ajusta la opacidad del punto de mira (crosshair). El valor 255 significa completado.
 
 `cl_crosshair_thickness 2` Controla el grosor de las líneas del punto de mira. Un valor de 2 significa que las líneas serán más gruesas.
 
