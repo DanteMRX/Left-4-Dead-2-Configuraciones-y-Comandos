@@ -75,7 +75,11 @@ sv_consistency 0
 
 ### comando adicional 🖇
 
-`cl_colorblind 0` Activa o desactiva el modo para daltónicos. Un valor de 0 significa que está desactivado, lo que significa que el juego no aplicará filtros de color para ayudar a los jugadores con deficiencias de visión de color.
+```
+cl_colorblind 0
+``` 
+> [!TIP]
+> Activa o desactiva el modo para daltónicos. Un valor de 0 significa que está desactivado, lo que significa que el juego no aplicará filtros de color para ayudar a los jugadores con deficiencias de visión de color.
 
 ## Configuración mejorada para (parametros del juegos)
 
