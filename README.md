@@ -1,4 +1,6 @@
-[configuracion de lerp](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/Configuraci%C3%B3n%20de%20Lerps.md)
+[Configuración de Lerps](./Configuración%20de%20Lerps.md)
+
+
 
 
 # Guia de Ayuda para Left 4 Dead 2 
