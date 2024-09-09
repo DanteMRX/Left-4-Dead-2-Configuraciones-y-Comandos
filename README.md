@@ -1,4 +1,4 @@
-[![dante loyola](https://www.youtube.com/)]
+dante https://www.youtube.com/
 
 # Guia de Ayuda para Left 4 Dead 2 
 
