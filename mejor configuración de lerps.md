@@ -90,5 +90,5 @@ Lo mismo con el resto.
 Si queréis saber los valores que tenéis puestos, usad el comando net_graph 1
 
 > [!NOTE]
-> explicacion echa por VAL
+> Toda la informacion fue sacada por el canal de Val
 
