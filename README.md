@@ -91,11 +91,11 @@ factores en el juego
 `bind <letra asignada> say_team "TANK GO BACK!"` 
 > _envia un mensaje rapido solo para tu equipo_
 
+`bind <letra asignada> say "!ready"` 
+
+> _envia un mensaje para todo el chat global_
+
 [¿mejor configuracion los lerps?](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/Configuraci%C3%B3n%20de%20Lerps.md)
 
 
-
-`bind <letra asignada> say "!ready"` 
-
-> _envia un mensaje para todo el chat global_ 
 
