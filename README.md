@@ -12,7 +12,7 @@ Lo primero que se debe de hacer es activar la consola colocando en "parametros d
 ```
 Entrar al juego y bindear el siguiente comando:
 
-`Bind f10 "toggleconsole"`: Abre la consola desde la tecla asignada (F10).
+`Bind f10 "toggleconsole"`: > Abre la consola desde la tecla asignada (F10).
 
 `Net_Graph 1`: Muestra estadísticas como FPS y latencia en pantalla.
 
