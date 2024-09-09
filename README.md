@@ -1,7 +1,4 @@
 
-> [!mira esto]\
-> _Siempre escribe este comando `sv_consistency 0`en la consola o un archivo autoexec.cfg para evitar que los jugadores sean expulsados por el uso de mods en servidor local. *esta incluido en el autoexec.cfg para que se ejecuque al iniciar el juego*_
-
 # Guia de Ayuda para Left 4 Dead 2 
 
 Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia
