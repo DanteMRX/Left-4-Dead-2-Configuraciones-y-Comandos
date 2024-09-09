@@ -1,3 +1,5 @@
+** Te mostrare un serie de __tips útiles__ para que juegues con más comodidad **
+
 ### Silenciar el audio de jugadores
 
 > Lo primero que se debe de hacer es ir a la consola y colocar el comando 
