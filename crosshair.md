@@ -1,5 +1,8 @@
 ## Comandos para el crosshair📌: 
 
+### Definición:
+El Crosshair o Punto de mira es un conjunto de dos líneas que se cruzan en ángulo recto y se colocan superpuestos en el campo de visión de una pantalla, usado generalmente para los Juegos First Person Shooter como (CSGO, TF2, HL,L) En este caso la saga de Left 4 Dead.
+
 |Nombre_de_la_cvar |valor predeterminado |Rango de valores disponibles|
 | :---         |     :---:      |          ---: 
 | crosshair         	  | "1"    |0 - 1 |
