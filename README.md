@@ -37,7 +37,9 @@ Entrar al juego y bindear el siguiente comando:
 
 `crosshair 0/1`: activar y desactivar la mira en el juego
 
-`cl_crosshair_alpha 255` > Ajusta la opacidad del punto de mira (crosshair). El valor 255 significa completado`
+`cl_crosshair_alpha 255`
+
+> Ajusta la opacidad del punto de mira (crosshair). El valor 255 significa completado`
 
 `Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
 
