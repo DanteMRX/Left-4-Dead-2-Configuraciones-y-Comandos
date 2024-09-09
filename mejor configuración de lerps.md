@@ -90,5 +90,12 @@ Lo mismo con el resto.
 Si queréis saber los valores que tenéis puestos, usad el comando net_graph 1
 
 > [!NOTE]
-> Toda la informacion fue sacada por el canal de Val
+> Toda la información presentada ha sido recopilada a partir del contenido proporcionado por el canal de Val, el cual ha sido una fuente confiable y detallada para la elaboración de este material. El análisis y los datos utilizados han sido extraídos de los recursos ofrecidos en dicho canal, asegurando así la precisión y relevancia de la información aquí expuesta.
+
+
+
+
+
+
+
 
