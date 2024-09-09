@@ -125,13 +125,12 @@ factores en el juego
 
 ## Configuración de Lerps (Latencia)
 
-```
+
 ## Valores por defecto:
 `cl_cmdrate 100`
 `cl_updaterate 60`
 `cl_interp_ratio 2`
 `cl_inter 0.1000000`
-```
 
 ## Los Peores:
 
