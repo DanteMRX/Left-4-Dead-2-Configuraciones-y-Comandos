@@ -95,6 +95,6 @@ factores en el juego
 
 > _envia un mensaje para todo el chat global_
 
- [## ¿mejor configuracion los lerps?](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/mejor%20configuraci%C3%B3n%20de%20lerps)
+ [¿mejor configuracion los lerps?](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/mejor%20configuraci%C3%B3n%20de%20lerps)
 
 
