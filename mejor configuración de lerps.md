@@ -2,6 +2,9 @@
 
 Cuando hablamos de LERP nos estamos refiriendo a lo que comúnmente se llama interpolación. La interpolación se introdujo en L4D2 para lograr que las animaciones del juego fueran fluidas, aun teniendo una mala conexión a internet.
 
+Cuando nos conectamos a un servidor, nos comunicamos con él, y él con nosotros, es decir, nos intercambiamos paquetes. En los paquetes que enviamos va toda nuestra información de jugador en ese preciso momento.Todos los jugadores envían esos paquetes al servidor para informarle de lo que están haciendo. El servidor los recibe y los interpreta para crear lo que se conoce como el estado actual REAL de la partida. Que para que me entendáis, es como una foto de lo que está ocurriendo en ese preciso momento. 
+
+
 ## Valores por defecto:
 `cl_cmdrate 100`
 `cl_updaterate 60`
@@ -48,8 +51,6 @@ Cuando hablamos de LERP nos estamos refiriendo a lo que comúnmente se llama int
 `cl_updaterate 10`
 `cl_interp_ratio 0`
 `cl_interp 0.0300` (va de 0.1000 - .0001)
-
-Cuando nos conectamos a un servidor, nos comunicamos con él, y él con nosotros, es decir, nos intercambiamos paquetes. En los paquetes que enviamos va toda nuestra información de jugador en ese preciso momento.Todos los jugadores envían esos paquetes al servidor para informarle de lo que están haciendo. El servidor los recibe y los interpreta para crear lo que se conoce como el estado actual REAL de la partida. Que para que me entendáis, es como una foto de lo que está ocurriendo en ese preciso momento. 
 
 Los servidores de L4D2 pueden realizar esta operación de actualización un máximo de 30 veces por segundo  que es lo que se conoce como 30 TICK. Que por cierto, es un valor bastante bajo si lo comparamos con los 64 TICK que suelen tener los servidores de CSGO, o los 128 TICK que suelen tener los servidores competitivos de este mismo juego.
 
