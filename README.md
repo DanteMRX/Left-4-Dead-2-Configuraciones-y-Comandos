@@ -1,8 +1,11 @@
 
 
-# Guia de Ayuda para Left 4 Dead 2 
+# La mejor guia de Internet de left dead 2
 
-Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia
+Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia, busca entre las opciones lo que nececitas
+
+ [¿cual es la mejor configuracion para el juego?](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/mejor%20configuraci%C3%B3n%20de%20lerps)
+
 
 ## Comandos Basicos para el juego📋
 
@@ -95,6 +98,5 @@ factores en el juego
 
 > _envia un mensaje para todo el chat global_
 
- [¿mejor configuracion los lerps?](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/mejor%20configuraci%C3%B3n%20de%20lerps)
 
 
