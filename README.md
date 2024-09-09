@@ -1,4 +1,4 @@
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/crear%20archivo%20vtf-spray.md)
 # Guia de Ayuda para Left 4 Dead 2 
 
 Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia
