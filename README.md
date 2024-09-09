@@ -44,15 +44,22 @@ Entrar al juego y bindear el siguiente comando:
 `Cl_Crosshair_Dynamic 0`: 
 > Deja la mira estática para mejorar la precisión al disparar.
 
-`cl_crosshair_dynamic 1` Activa un punto de mira dinámico. Esto hace que el punto de mira se expanda cuando te mueves y se reduzca cuando te quedas quieto, lo que te ayuda a medir mejor la precisión en movimiento.
+`cl_crosshair_dynamic 1` 
+> Activa un punto de mira dinámico. Esto hace que el punto de mira se expanda cuando te mueves y se reduzca cuando te quedas quieto, lo que te ayuda a medir mejor la precisión en movimiento.
 
-`cl_crosshair_thickness 2` Controla el grosor de las líneas del punto de mira. Un valor de 2 significa que las líneas serán más gruesas.
+`cl_crosshair_thickness 2` 
+> Controla el grosor de las líneas del punto de mira. Un valor de 2 significa que las líneas serán más gruesas.
 
-`cl_crosshair_red 255` Define el valor del componente rojo en el color del punto de mira. El valor 255 significa el máximo nivel de rojo.
+`cl_crosshair_red 255` 
 
-`cl_crosshair_blue 255` Define el valor del componente azul en el color del punto de mira. El valor 255 significa el máximo nivel de azul.
+> Define el valor del componente rojo en el color del punto de mira. El valor 255 significa el máximo nivel de rojo.
 
-`cl_crosshair_green 255` Define el valor del componente verde en el color del punto de mira. El valor 255 significa el máximo nivel de verde.
+`cl_crosshair_blue 255` 
+> Define el valor del componente azul en el color del punto de mira. El valor 255 significa el máximo nivel de azul.
+
+`cl_crosshair_green 255` 
+
+> Define el valor del componente verde en el color del punto de mira. El valor 255 significa el máximo nivel de verde.
 
 ### comando adicional 🖇
 
