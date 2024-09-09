@@ -37,7 +37,7 @@ Entrar al juego y bindear el siguiente comando:
 
 `crosshair 0/1`: activar y desactivar la mira en el juego
 
-`cl_crosshair_alpha 255` Ajusta la opacidad del punto de mira (crosshair). El valor 255 significa completado`
+`cl_crosshair_alpha 255` > Ajusta la opacidad del punto de mira (crosshair). El valor 255 significa completado`
 
 `Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
 
@@ -150,7 +150,7 @@ factores en el juego
 
 `status` _se usa en la consola para mostrar información sobre los jugadores conectados al servidor, como sus IDs, nombres y direcciones IP._
 
-`kick <nombre del jugador>` > _se usa para expulsar a un jugador de tu servidor local_
+`kick <nombre del jugador>` _se usa para expulsar a un jugador de tu servidor local_
 
 `setinfo name <nombre del jugador>` _cambiar el nombre dentro de la partida_
 
