@@ -1,5 +1,6 @@
 ## Configuración de Lerps (Latencia)
 
+Cuando hablamos de LERP nos estamos refiriendo a lo que comúnmente se llama interpolación. La interpolación se introdujo en L4D2 para lograr que las animaciones del juego fueran fluidas, aun teniendo una mala conexión a internet.
 
 ## Valores por defecto:
 `cl_cmdrate 100`
@@ -47,8 +48,6 @@
 `cl_updaterate 10`
 `cl_interp_ratio 0`
 `cl_interp 0.0300` (va de 0.1000 - .0001)
-
-Cuando hablamos de LERP nos estamos refiriendo a lo que comúnmente se llama interpolación. La interpolación se introdujo en L4D2 para lograr que las animaciones del juego fueran fluidas, aun teniendo una mala conexión a internet.
 
 Cuando nos conectamos a un servidor, nos comunicamos con él, y él con nosotros, es decir, nos intercambiamos paquetes. En los paquetes que enviamos va toda nuestra información de jugador en ese preciso momento.Todos los jugadores envían esos paquetes al servidor para informarle de lo que están haciendo. El servidor los recibe y los interpreta para crear lo que se conoce como el estado actual REAL de la partida. Que para que me entendáis, es como una foto de lo que está ocurriendo en ese preciso momento. 
 
