@@ -1,7 +1,7 @@
 
 # Guia de Ayuda para Left 4 Dead 2 
 
-** __Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia__ **
+Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia
 
 ## Comandos Basicos para el juego📋
 
