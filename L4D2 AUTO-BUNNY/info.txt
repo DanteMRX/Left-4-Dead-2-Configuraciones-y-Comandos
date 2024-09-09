@@ -1,0 +1,12 @@
+[Release] L4D2 Bhop C++
+https://www.unknowncheats.me/forum/other-fps-games/462337-release-l4d2-bhop.html
+
+PlayerBase
+	0x724B58 // Jala Chido
+	0x7C233C // Jala Chido
+	0x7C2148 // 99% Acuraccy
+	0x7C211C // 95% Acuraccy
+	0x7384F4 // Not Working
+
+mFlags
+	0xF0
