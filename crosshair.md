@@ -40,6 +40,8 @@
 
 ```
 cl_colorblind 0
-``` 
+```
+> Nuestra mira se pondrá de color blanco con un borde negro. Lo malo es que no se puede modificar el grosor del borde. Además cuando tenemos esta opción puesta no podemos elegir ningún otro color, por lo tanto si queréis tener de nuevo una mira con color, deberéis poner este comando a 0.
+
 > [!TIP]
 > Activa o desactiva el modo para daltónicos. Un valor de 0 significa que está desactivado, lo que significa que el juego no aplicará filtros de color para ayudar a los jugadores con deficiencias de visión de color.
