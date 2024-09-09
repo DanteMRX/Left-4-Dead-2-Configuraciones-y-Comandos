@@ -176,13 +176,19 @@ factores en el juego
 
 `status` _se usa en la consola para mostrar información sobre los jugadores conectados al servidor, como sus IDs, nombres y direcciones IP._
 
-`kick <nombre del jugador>` _se usa para expulsar a un jugador de tu servidor local_
+`kick <nombre del jugador>` 
+> _se usa para expulsar a un jugador de tu servidor local_
 
-`setinfo name <nombre del jugador>` _cambiar el nombre dentro de la partida_
+`setinfo name <nombre del jugador>` 
 
-`bind <letra asignada> say_team "TANK GO BACK!"` _envia un mensaje rapido solo para tu equipo_
+> _cambiar el nombre dentro de la partida_
 
-`bind <letra asignada> say "!ready"` _envia un mensaje para todo el chat global_ 
+`bind <letra asignada> say_team "TANK GO BACK!"` 
+> _envia un mensaje rapido solo para tu equipo_
+
+`bind <letra asignada> say "!ready"` 
+
+> _envia un mensaje para todo el chat global_ 
 
 ### Silenciar el audio de jugadores
 
