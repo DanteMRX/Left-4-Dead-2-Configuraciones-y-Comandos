@@ -1,3 +1,4 @@
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 # Guia de Ayuda para Left 4 Dead 2 
 
