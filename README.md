@@ -1,4 +1,7 @@
-[Contribution guidelines for this project](main/assets/Actualizar crear archivo vtf-spray.md)
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 # Guia de Ayuda para Left 4 Dead 2 
 
