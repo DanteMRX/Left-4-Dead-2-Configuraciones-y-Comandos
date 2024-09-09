@@ -1,4 +1,4 @@
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[¿como configurar los lerps para mejorar en el juego?]([docs/CONTRIBUTING.md](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/Configuraci%C3%B3n%20de%20Lerps.md))
 
 # Guia de Ayuda para Left 4 Dead 2 
 
