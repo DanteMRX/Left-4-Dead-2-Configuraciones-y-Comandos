@@ -1,5 +1,4 @@
-[![dante loyola]([https://pureit.visualstudio.com/link-reader/_apis/build/status/link-reader-ASP.NET%20Core-CI)](https://pureit.visualstudio.com/link-reader/_build/latest?definitionId=3](https://www.youtube.com/))
-[¿como configurar los lerps para mejorar en el juego?]([[docs/CONTRIBUTING.md](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/Configuraci%C3%B3n%20de%20Lerps.md](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/Configuraci%C3%B3n%20de%20Lerps.md)))
+[![dante loyola](https://www.youtube.com/)]
 
 # Guia de Ayuda para Left 4 Dead 2 
 
