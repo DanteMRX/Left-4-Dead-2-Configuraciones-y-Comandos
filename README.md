@@ -1,4 +1,5 @@
-[Contribution guidelines for this project](docs/crea archivo vtf-spray.md)
+[Contribution guidelines for this project]l (docs/creararchivo vtf-spray.md)
+
 # Guia de Ayuda para Left 4 Dead 2 
 
 Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia
