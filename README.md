@@ -1,6 +1,6 @@
 - [ ] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
-- [x] Add delight to the experience when all tasks are complete :tada:
+- [x]  > Add delight to the experience when all tasks are complete :tada:
 
 
 # Guia de Ayuda para Left 4 Dead 2 
