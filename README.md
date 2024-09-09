@@ -35,13 +35,14 @@ Entrar al juego y bindear el siguiente comando:
 | cl_crosshair_green | "182"  |0 - 255 RGB|
 |cl_crosshair_blue   | "220"  |0 - 255 RGB|
 
-`crosshair 0/1`: activar y desactivar la mira en el juego
+`crosshair 0/1`:
+ > activar y desactivar la mira en el juego
 
 `cl_crosshair_alpha 255`
-
 > Ajusta la opacidad del punto de mira (crosshair). El valor 255 significa completado`
 
-`Cl_Crosshair_Dynamic 0`: Deja la mira estática para mejorar la precisión al disparar.
+`Cl_Crosshair_Dynamic 0`: 
+> Deja la mira estática para mejorar la precisión al disparar.
 
 `cl_crosshair_dynamic 1` Activa un punto de mira dinámico. Esto hace que el punto de mira se expanda cuando te mueves y se reduzca cuando te quedas quieto, lo que te ayuda a medir mejor la precisión en movimiento.
 
