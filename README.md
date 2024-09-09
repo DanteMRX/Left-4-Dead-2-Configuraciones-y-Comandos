@@ -4,7 +4,10 @@
 
 Esta guía busca ayudar y optimizar el juego para que tengas una mejor experiencia, busca entre las opciones lo que nececitas
 
+ [¿como activar la consola dentro del juego?](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/como%20activar%20la%20consola.md)
  [¿cual es la mejor configuracion para el juego?](https://github.com/DanteMRX/Left-4-Dead-2-Configuraciones-y-Comandos/blob/main/mejor%20configuraci%C3%B3n%20de%20lerps)
+
+
 
 
 
