@@ -1,4 +1,4 @@
-[Contribution guidelines for this project](main/Actualizar crear archivo vtf-spray.md)
+[Contribution guidelines for this project](/../main/assets/Actualizar crear archivo vtf-spray.md)
 
 # Guia de Ayuda para Left 4 Dead 2 
 
